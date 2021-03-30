@@ -15,6 +15,7 @@
 # 4. Login 
 
 login id : ubuntu
+
 login password : ubuntu
 
 then you have to change the password!
