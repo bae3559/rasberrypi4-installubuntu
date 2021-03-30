@@ -21,6 +21,8 @@ then you have to change the password!
 
 # 5. Download the GUI 
 
+* before download the package, you have to connect the LAN-wire.
+
 ```
 sudo apt-get install ubuntu-desktop
 ```
