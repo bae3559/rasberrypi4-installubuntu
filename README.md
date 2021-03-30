@@ -36,4 +36,4 @@ sudo apt-get install indicator-applet-complete
 ```
 
 # Reboot
-<img src="https://user-images.githubusercontent.com/42258047/113042554-4d3ffc80-91d6-11eb-87d5-a654b16d4b51.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/42258047/113042554-4d3ffc80-91d6-11eb-87d5-a654b16d4b51.jpg" width="400">
